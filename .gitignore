@@ -1,0 +1,9 @@
+out/
+*.class
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+nbproject/
+fuentes.txt
